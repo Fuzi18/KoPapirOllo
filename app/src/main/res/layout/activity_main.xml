@@ -23,7 +23,7 @@
         android:layout_width="match_parent"
         android:layout_height="150dp"
         android:src="@drawable/rock"
-        android:id="@+id/ko2"
+        android:id="@+id/gep"
         />
     <TextView
         android:layout_width="wrap_content"
@@ -45,6 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Eredmény: "
+            android:id="@+id/eredmeny"
             android:textSize="25sp" />
 
         <TextView
